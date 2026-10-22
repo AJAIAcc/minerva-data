@@ -1,0 +1,239 @@
+{
+ "built": "2026-10-22T10:35+00:00",
+ "files": [
+  {
+   "name": "classics.db",
+   "size": 643043328,
+   "sha256": "4cca6b22cdd80fa0bd48054e27f39bb55202efa18fb489b345f0f9aaa5191a61",
+   "parts": [
+    {
+     "path": "parts/classics.db.00",
+     "size": 95000000,
+     "sha256": "8aceabe53c9f6cdd8767cbd3c60a9bbad8c9fbe5441e3c2e8d2a779c5e3b1fe7"
+    },
+    {
+     "path": "parts/classics.db.01",
+     "size": 95000000,
+     "sha256": "79a9f1b39c7392c73baeac826ef752cc598ba768e729a4cdcab50cb8fbaaded8"
+    },
+    {
+     "path": "parts/classics.db.02",
+     "size": 95000000,
+     "sha256": "8f3a98771606d7d2e0626e152269c22c2edcc2e36afdc5cdfbff2703e9ca2e11"
+    },
+    {
+     "path": "parts/classics.db.03",
+     "size": 95000000,
+     "sha256": "ade74b0afe64a8802c1db0c6a8039b8673f4af298e8d2509fec8e33a4f893f76"
+    },
+    {
+     "path": "parts/classics.db.04",
+     "size": 95000000,
+     "sha256": "c999bc275911e4e3956b83f68081a7463e926d28eca60b54b3dd3e68a4047288"
+    },
+    {
+     "path": "parts/classics.db.05",
+     "size": 95000000,
+     "sha256": "b0184c4cfff4c02a2ff46df23955721046febd8e7abf5bf0626cc2954094fec9"
+    },
+    {
+     "path": "parts/classics.db.06",
+     "size": 73043328,
+     "sha256": "40364a33d8c1d4409491e934a2cb0b36534609acce42ebf9c0cd4a499e3b3e05"
+    }
+   ]
+  },
+  {
+   "name": "tagger_grc.npy",
+   "size": 8388736,
+   "sha256": "0ff57375197cc2b26b49d085976cf4d626ba13e7a78ac47961471127bf4c6484",
+   "parts": [
+    {
+     "path": "parts/tagger_grc.npy.00",
+     "size": 8388736,
+     "sha256": "0ff57375197cc2b26b49d085976cf4d626ba13e7a78ac47961471127bf4c6484"
+    }
+   ]
+  },
+  {
+   "name": "tagger_lat.npy",
+   "size": 8388736,
+   "sha256": "2cc7c2e515b80c262a964bd5a7c2b067f7ceafb611127d5bfb53fc39104684de",
+   "parts": [
+    {
+     "path": "parts/tagger_lat.npy.00",
+     "size": 8388736,
+     "sha256": "2cc7c2e515b80c262a964bd5a7c2b067f7ceafb611127d5bfb53fc39104684de"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_en.db",
+   "size": 562795,
+   "sha256": "a10df194b5df901a7cc4578bd8a13fbfe130fbafea325c40a203167bd74a3ff0",
+   "parts": [
+    {
+     "path": "parts/data_grc_en.db.00",
+     "size": 562795,
+     "sha256": "a10df194b5df901a7cc4578bd8a13fbfe130fbafea325c40a203167bd74a3ff0"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_forms.db",
+   "size": 25451185,
+   "sha256": "e09090860260e5d65b093917310500f00ccd4514cd394d6068692798fe7d12f6",
+   "parts": [
+    {
+     "path": "parts/data_grc_forms.db.00",
+     "size": 25451185,
+     "sha256": "e09090860260e5d65b093917310500f00ccd4514cd394d6068692798fe7d12f6"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_head.db",
+   "size": 1255169,
+   "sha256": "23462b290602d6bef587f7d41c46b3a11e640be0674f96731980aa12450e348d",
+   "parts": [
+    {
+     "path": "parts/data_grc_head.db.00",
+     "size": 1255169,
+     "sha256": "23462b290602d6bef587f7d41c46b3a11e640be0674f96731980aa12450e348d"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_lemmas.db",
+   "size": 3631878,
+   "sha256": "2c70e5904f4d3e836f1d3eb0ddc665401b412c92760454a87988c0de35eebc57",
+   "parts": [
+    {
+     "path": "parts/data_grc_lemmas.db.00",
+     "size": 3631878,
+     "sha256": "2c70e5904f4d3e836f1d3eb0ddc665401b412c92760454a87988c0de35eebc57"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_lex.db",
+   "size": 18897940,
+   "sha256": "fad042ef77c92579de5307822e9e139f9f328dd8409c11f44543d466d8c95226",
+   "parts": [
+    {
+     "path": "parts/data_grc_lex.db.00",
+     "size": 18897940,
+     "sha256": "fad042ef77c92579de5307822e9e139f9f328dd8409c11f44543d466d8c95226"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_para.db",
+   "size": 16298626,
+   "sha256": "6b7229884c1eb6cee64edfe3731429f65b70b7e6340afa22b3e3231ffe524d3b",
+   "parts": [
+    {
+     "path": "parts/data_grc_para.db.00",
+     "size": 16298626,
+     "sha256": "6b7229884c1eb6cee64edfe3731429f65b70b7e6340afa22b3e3231ffe524d3b"
+    }
+   ]
+  },
+  {
+   "name": "data/grc_parses.db",
+   "size": 1363817,
+   "sha256": "033588f500e5a701e78ec5fe0176c5959b278789d055e5564c9c7f8943ccbdb4",
+   "parts": [
+    {
+     "path": "parts/data_grc_parses.db.00",
+     "size": 1363817,
+     "sha256": "033588f500e5a701e78ec5fe0176c5959b278789d055e5564c9c7f8943ccbdb4"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_en.db",
+   "size": 362111,
+   "sha256": "41b85cf3386d34c3d1b17886d877a3324cf159b0a8b8833d319932e4726df008",
+   "parts": [
+    {
+     "path": "parts/data_lat_en.db.00",
+     "size": 362111,
+     "sha256": "41b85cf3386d34c3d1b17886d877a3324cf159b0a8b8833d319932e4726df008"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_forms.db",
+   "size": 8329832,
+   "sha256": "7d4cdbabd530d970d56210879b3d5ce7bca6ba4137b9de8999df2a84817c47d8",
+   "parts": [
+    {
+     "path": "parts/data_lat_forms.db.00",
+     "size": 8329832,
+     "sha256": "7d4cdbabd530d970d56210879b3d5ce7bca6ba4137b9de8999df2a84817c47d8"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_head.db",
+   "size": 503600,
+   "sha256": "b35245a101bb26be127aff6960378d70e1f5d3c073cdebe731c4afc390687233",
+   "parts": [
+    {
+     "path": "parts/data_lat_head.db.00",
+     "size": 503600,
+     "sha256": "b35245a101bb26be127aff6960378d70e1f5d3c073cdebe731c4afc390687233"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_lemmas.db",
+   "size": 1528298,
+   "sha256": "215cae3b6f094dbb5601c3d5ef488a477948704a1f5830c74db9be4b198e19f8",
+   "parts": [
+    {
+     "path": "parts/data_lat_lemmas.db.00",
+     "size": 1528298,
+     "sha256": "215cae3b6f094dbb5601c3d5ef488a477948704a1f5830c74db9be4b198e19f8"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_lex.db",
+   "size": 16558461,
+   "sha256": "fceb3b0fecc8de8e507f14ced9cf528191daeed07e1ded3e8746cbbab3a09495",
+   "parts": [
+    {
+     "path": "parts/data_lat_lex.db.00",
+     "size": 16558461,
+     "sha256": "fceb3b0fecc8de8e507f14ced9cf528191daeed07e1ded3e8746cbbab3a09495"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_para.db",
+   "size": 4677781,
+   "sha256": "1ccd95949f1e046613c8d9d1f4923eb6d73b23d454f4a696899b3b3c3a149232",
+   "parts": [
+    {
+     "path": "parts/data_lat_para.db.00",
+     "size": 4677781,
+     "sha256": "1ccd95949f1e046613c8d9d1f4923eb6d73b23d454f4a696899b3b3c3a149232"
+    }
+   ]
+  },
+  {
+   "name": "data/lat_parses.db",
+   "size": 50081,
+   "sha256": "bfacdb9070c08f6d8cb3df176735d479e01b0f705841475158abd8dd9347a055",
+   "parts": [
+    {
+     "path": "parts/data_lat_parses.db.00",
+     "size": 50081,
+     "sha256": "bfacdb9070c08f6d8cb3df176735d479e01b0f705841475158abd8dd9347a055"
+    }
+   ]
+  }
+ ]
+}
