@@ -1,45 +1,55 @@
 {
- "built": "2026-10-22T10:35+00:00",
+ "built": "2026-10-23T06:16+00:00",
  "files": [
   {
    "name": "classics.db",
-   "size": 643043328,
-   "sha256": "4cca6b22cdd80fa0bd48054e27f39bb55202efa18fb489b345f0f9aaa5191a61",
+   "size": 795136000,
+   "sha256": "958aa5a672a509cedfe8adc384901f9dfae198d9b1036c13637889d1beb0f2d3",
    "parts": [
     {
      "path": "parts/classics.db.00",
      "size": 95000000,
-     "sha256": "8aceabe53c9f6cdd8767cbd3c60a9bbad8c9fbe5441e3c2e8d2a779c5e3b1fe7"
+     "sha256": "e17b1fe5b2bf0ed8fa4f27454c1af2edc27d8a2a62f41d18d5732a24f2c6a485"
     },
     {
      "path": "parts/classics.db.01",
      "size": 95000000,
-     "sha256": "79a9f1b39c7392c73baeac826ef752cc598ba768e729a4cdcab50cb8fbaaded8"
+     "sha256": "cb7516793dd37d00761b16c478b0049f208ef53a984d0bf0bb8a0b5beb93e3dc"
     },
     {
      "path": "parts/classics.db.02",
      "size": 95000000,
-     "sha256": "8f3a98771606d7d2e0626e152269c22c2edcc2e36afdc5cdfbff2703e9ca2e11"
+     "sha256": "ece9f3af401b7bdeb81ce2fe35643b33f6e547f12eec8c470cb0bae485d2709e"
     },
     {
      "path": "parts/classics.db.03",
      "size": 95000000,
-     "sha256": "ade74b0afe64a8802c1db0c6a8039b8673f4af298e8d2509fec8e33a4f893f76"
+     "sha256": "e769c124d38b9f53182510a5b3bf6b74085f9a69005941ab5c6a7cd17242d706"
     },
     {
      "path": "parts/classics.db.04",
      "size": 95000000,
-     "sha256": "c999bc275911e4e3956b83f68081a7463e926d28eca60b54b3dd3e68a4047288"
+     "sha256": "d5b18f479bc4dc48583d6aac11ab3e54aca990fa250056438a471c95957b3150"
     },
     {
      "path": "parts/classics.db.05",
      "size": 95000000,
-     "sha256": "b0184c4cfff4c02a2ff46df23955721046febd8e7abf5bf0626cc2954094fec9"
+     "sha256": "0e9c29dc3441e07a67863107ca7d860ecbdc7cc5b79ade668b4ec742046445e3"
     },
     {
      "path": "parts/classics.db.06",
-     "size": 73043328,
-     "sha256": "40364a33d8c1d4409491e934a2cb0b36534609acce42ebf9c0cd4a499e3b3e05"
+     "size": 95000000,
+     "sha256": "f32cd0d1652fdb808243065cc93b36afcf1ef9bc440d0abd87cf3f03fc5d61e8"
+    },
+    {
+     "path": "parts/classics.db.07",
+     "size": 95000000,
+     "sha256": "281ce870db65e74621e48af20314e3bf0962355a3e23d860637ddd5b261924e7"
+    },
+    {
+     "path": "parts/classics.db.08",
+     "size": 35136000,
+     "sha256": "4e3a988a638073403638e78ed5db94c346cbf85779ce9c837e69b9b62d6a7ee6"
     }
    ]
   },
